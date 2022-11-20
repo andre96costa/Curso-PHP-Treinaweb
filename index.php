@@ -14,6 +14,10 @@
         <li><a href="/PHP-OOP1/">PHP-OOP1</a></li>
         <li><a href="/PHP-OOP2">PHP-OOP2</a></li>
         <li><a href="/projeto">Projeto</a></li>
+        <li><a href="/Recursos-essenciais/">Recursos-essenciais</a></li>
+        <li><a href="/conversao/">Conversao de tipo</a></li>
+        <li><a href="/datas/">Datas </a></li>
+        <li><a href="/regex/">Regex </a></li>
     </ul>
 </body>
 </html>
