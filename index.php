@@ -18,6 +18,7 @@
         <li><a href="/conversao/">Conversao de tipo</a></li>
         <li><a href="/datas/">Datas </a></li>
         <li><a href="/regex/">Regex </a></li>
+        <li><a href="/PHP8/">PHP8</a></li>
     </ul>
 </body>
 </html>
