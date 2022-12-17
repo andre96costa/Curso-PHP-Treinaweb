@@ -1,0 +1,17 @@
+{
+    "name": "andre/php-com-banco",
+    "description": "Projeto trilha PHP treinaweb",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andre Costa",
+            "email": "andre2396costa@gmail.com"
+        }
+    ],
+    "require": {}
+}
